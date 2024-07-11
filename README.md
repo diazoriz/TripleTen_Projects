@@ -3,7 +3,7 @@
 # Data Scientist professional program
 
 
-These projects I completed for Practicum's Data Scientist professional training program, then uploaded all at once.
+These projects I completed for Tripleten's Data Scientist professional training program, then uploaded all at once.
 
 | Project               | Description                                                                                 | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
